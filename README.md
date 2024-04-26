@@ -1,2 +1,2 @@
 # learning-and-development
-Repository containing all my learnings throught the year of 2024.
+This repository will be divided by resources that I have used to learn new stuff. Each directory will contain code-samples/notes for the particular resource. 
